@@ -1,0 +1,8 @@
+The main.cpp is the source code for the program.
+All the images you want to use and the output of the filters are in the "cmake-build-debug"
+
+
+Done by:
+Ali mohsen (20221106)
+Abdulrahman Mohamed (20221099)
+Mostafa Anwar (20221153)
